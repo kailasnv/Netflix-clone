@@ -4,11 +4,11 @@ This project is only based on th UI part of Netflix . I have used some APIs from
 
 
 ## Packages Used
-  1.http
-  2.flutter_bloc
-  3.video_player
-  4.bordered_text
-  5.intl
+     1.http
+     2.flutter_bloc
+     3.video_player
+     4.bordered_text
+     5.intl
   
  
  

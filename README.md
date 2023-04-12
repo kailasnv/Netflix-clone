@@ -2,7 +2,7 @@
 
 This project is only based on th UI part of Netflix . I have used some APIs from TMDB movie database ( https://www.themoviedb.org/ ) to fetch the list of movie/TVshows details (such as Trending/UpComing/NowPlaying etc...) from the internet , and show it in the app's ui .  
 
-By using the TMDB website Api , the movie data in the app is always updated everytime.
+By using the TMDB website Api , the movie data in the app is always updated , and the app looks more real.
 
 ## Packages Used
      1.http  - The http package helps to perform all types of network requests in Flutter.

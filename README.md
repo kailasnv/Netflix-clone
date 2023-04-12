@@ -1,16 +1,14 @@
-# netflix_app
+# 🍿 Netflix Clone App UI with Flutter
 
-A new Flutter project.
+This project is only based on th UI part of Netflix . I have used some APIs from TMDB movie database to fetch the movie/TVshows details (such as Trending/UpComing/NowPlaying etc...) from the internet , and show it in the app's ui .  
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Packages Used
+  1.http
+  2.flutter_bloc
+  3.video_player
+  4.bordered_text
+  5.intl
+  
+ 
+ 

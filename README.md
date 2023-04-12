@@ -1,6 +1,6 @@
 # 🍿 Netflix Clone App UI with Flutter
 
-This project is only based on th UI part of Netflix . I have used some APIs from TMDB movie database to fetch the movie/TVshows details (such as Trending/UpComing/NowPlaying etc...) from the internet , and show it in the app's ui .  
+This project is only based on th UI part of Netflix . I have used some APIs from TMDB movie database ( https://www.themoviedb.org/ ) to fetch the movie/TVshows details (such as Trending/UpComing/NowPlaying etc...) from the internet , and show it in the app's ui .  
 
 
 ## Packages Used
@@ -10,5 +10,5 @@ This project is only based on th UI part of Netflix . I have used some APIs from
      4.bordered_text
      5.intl
   
- 
+ You can get these packages from pub.dev https://pub.dev/
  

@@ -4,7 +4,7 @@ This project is only based on th UI part of Netflix . I have used some APIs from
 
 By using the TMDB website Api , the movie data in the app is always updated , and the app looks more real.
 
-note : movie videos are not available from this TMDB Api .
+
 
 ## Packages Used
      1.http  - The http package helps to perform all types of network requests in Flutter.
